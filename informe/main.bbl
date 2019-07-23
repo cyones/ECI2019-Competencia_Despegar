@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{smith2017cyclical}
+L.~N. Smith.
+\newblock Cyclical learning rates for training neural networks.
+\newblock In {\em 2017 IEEE Winter Conference on Applications of Computer
+  Vision (WACV)}, pages 464--472. IEEE, 2017.
+
+\bibitem{xie2017aggregated}
+S.~Xie, R.~Girshick, P.~Doll{\'a}r, Z.~Tu, and K.~He.
+\newblock Aggregated residual transformations for deep neural networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1492--1500, 2017.
+
+\end{thebibliography}
